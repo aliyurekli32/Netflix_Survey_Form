@@ -13,7 +13,7 @@
 
    * CSS Properties for Texts-Font Families-Links
 
-- [x] At the end of the project, students will be able to; improve coding skills within HTML & CSS
+- [x] At the end of the project, I will be able to; improve coding skills within HTML & CSS
 
-- [x] use git commands (push, pull, commit, add etc.) and Github as Version Control System. 
+- [x] used git commands (push, pull, commit, add etc.) and Github as Version Control System. 
 
